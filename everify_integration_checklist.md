@@ -9,7 +9,7 @@ python package_everify.py
 - Creates `everify_standalone_package/` directory
 - Includes all necessary files and resources
 
-### ✅ Step 1.2: Set Environment Variables
+### ✅ Step 1.2: Set Environment Variablesl
 ```bash
 # eVerify API credentials
 export CLIENT_ID="your_client_id"
